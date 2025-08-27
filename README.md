@@ -19,3 +19,8 @@ Computational Materials Science 184, 109872 (2020).  https://doi.org/10.1016/j.c
 •	ice_on_nanotube.pdf
 •	L. Bao, Z. Huang, N. V. Priezjev, S. Chen, K. Luo, H. Hu, “A significant reduction of ice adhesion on nanostructured surfaces that consist of an array of single-walled carbon nanotubes: A molecular dynamics simulation study”, Applied Surface Science 437, 202 (2018). https://doi.org/10.1016/j.apsusc.2017.12.096
 
+•	thermo_04.pdf
+•	N. V. Priezjev and S. M. Troian, “Nanodroplet migration by thermal tuning of the liquid-solid interfacial tension”, APS presentation, 2004. 
+
+
+
