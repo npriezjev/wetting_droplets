@@ -14,7 +14,7 @@ Computational Materials Science 184, 109872 (2020).  https://doi.org/10.1016/j.c
 •	Bishal Bhattarai. Thesis title: “Wetting properties of structured interfaces composed of surface-attached spherical nanoparticles”. M.S. Fall 2018, Wright State University.
 
 •	wett_sphere_slides.pdf
-•	Bishal Bhattarai. Thesis title: “Wetting properties of structured interfaces composed of surface-attached spherical nanoparticles”. PPT thesis presentation.
+•	Bishal Bhattarai. Thesis title: “Wetting properties of structured interfaces composed of surface-attached spherical nanoparticles”. PPT thesis presentation, 2018.
 
 •	ice_on_nanotube.pdf
 •	L. Bao, Z. Huang, N. V. Priezjev, S. Chen, K. Luo, H. Hu, “A significant reduction of ice adhesion on nanostructured surfaces that consist of an array of single-walled carbon nanotubes: A molecular dynamics simulation study”, Applied Surface Science 437, 202 (2018). https://doi.org/10.1016/j.apsusc.2017.12.096
